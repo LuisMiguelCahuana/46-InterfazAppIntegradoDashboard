@@ -106,7 +106,7 @@ text-shadow:0px 0px 25px #00C8FF;
 margin-top:0px;
 margin-bottom:30px;
 ">
-🤖 APLICACIONES INTEGRADAS
+🤖 PRODUCCION DE CONTROL DE PERDIDAS
 </h1>
 """, unsafe_allow_html=True)
 
@@ -138,13 +138,13 @@ with col1:
     font-weight:900;
     text-shadow:0px 0px 15px #00E5FF;
     ">
-    APP CONFORMACION DE CUADRILLAS
+    EXTRAER DATOS DE PRODUCCION
     </h6>
 
     <hr>
 
     <div style="text-align:center; margin-top:35px;">
-        <a href="https://conformaciondecuadrillas.streamlit.app/"
+        <a href="https://appuccioncontrolperdidas.streamlit.app/"
            target="_blank"
            style="
            display:inline-block;
@@ -182,13 +182,13 @@ with col2:
     font-weight:900;
     text-shadow:0px 0px 15px #00E5FF;
     ">
-    MONITOREO DE KILOMETRAJE DISTRIBUCION | GLOBAL MICHA
+    DASHBOARD PRODUCCION CONTROL DE PERDIDAS
     </h6>
 
     <hr>
 
     <div style="text-align:center; margin-top:35px;">
-        <a href="https://reporteplacasfusionado.streamlit.app//"
+        <a href="https://dashboardcontrolperdidas.streamlit.app/"
            target="_blank"
            style="
            display:inline-block;
