@@ -182,13 +182,13 @@ with col2:
     font-weight:900;
     text-shadow:0px 0px 15px #00E5FF;
     ">
-    DASHBOARD PRODUCCION CONTROL DE PERDIDAS
+    DASHBOARD PRODUCCION CONTROL DE PERDIDAS Y RECORRIDO
     </h6>
 
     <hr>
 
     <div style="text-align:center; margin-top:35px;">
-        <a href="https://dashboardcontrolperdidas.streamlit.app/"
+        <a href="https://45-appintegradodedashboard.streamlit.app/"
            target="_blank"
            style="
            display:inline-block;
