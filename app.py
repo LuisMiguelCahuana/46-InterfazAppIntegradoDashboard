@@ -144,7 +144,7 @@ with col1:
     <hr>
 
     <div style="text-align:center; margin-top:35px;">
-        <a href="https://appuccioncontrolperdidas.streamlit.app/"
+        <a href="https://41-appuccioncontrolperdidashuanuco.streamlit.app/"
            target="_blank"
            style="
            display:inline-block;
